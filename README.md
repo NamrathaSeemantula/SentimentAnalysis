@@ -1,4 +1,4 @@
-# Emotion Analysis and Sentiment Prediction for Text 
+# Emotion Analysis and Sentiment Classification of Text using NLP and NLTK
 This project aims to analyze different emotions present in an essay, identify the dominant emotion, plot the emotions on a graph, and predict whether the entire text conveys a positive or negative emotion. Initially, the analysis is performed using manual natural language processing techniques without relying on any external libraries or packages. Later, the NLTK (Natural Language Toolkit) library is utilized to simplify and streamline the process.
 
 **Overview:**
